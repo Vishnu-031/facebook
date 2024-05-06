@@ -1,0 +1,28 @@
+       owasp ; open web application security protocol
+
+
+       it improve the security from the hackers 
+
+
+       OWASP - TOP 10
+
+
+       1. INJECTION 
+
+       2. BROCKEN AUNTICATION 
+
+       3. SENSITIVE DATA EXPOSER 
+
+       4. XML EXTERNAL ENTIRIES
+
+       5. BROKEN ACCESS CONROL 
+
+       6. SECURITY MISCONFIGURATION 
+
+       7. CROSS SITE SCRIPTING 
+
+       8. USING COMPONENTS WITH KNOWN VOLNERABILITIES
+
+       9. INSIFFIENT LOGGING AND MONOTORING 
+
+       10. SECURITY DESERILIZATION 
