@@ -1,0 +1,7 @@
+   IPS [INTRUSION PREVENT SYSTE] ; It takes the self decisions like block and reject . it works on the port numbers lika http and https.
+
+
+   IDS [INTRUSION DETECTION SYSTEM] ; It doesn't takes the self decisions. 
+    
+
+   it provide the alrets and notifications and works on the ports like http and https.

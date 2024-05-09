@@ -1,0 +1,10 @@
+   
+
+
+   proxy is the web traffic monotoring tool . it hides original user name and pssword .
+
+   it doing work like mediator .
+
+   it works on the policies . 
+
+   mutes the original DNS request for destination . 

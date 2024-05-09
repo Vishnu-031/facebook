@@ -1,0 +1,14 @@
+   PORT           PROTOCAL            FULFORM
+
+
+  80              HTTP                HYPER TEXT TRANSFER PROTOCAL
+
+  443             HTTPS               HYPER TEXT TRANSFER PROTOCOL SECURE
+
+  20,21            FTP                FILE TRANSFER PROTOCOL
+
+  22               SSH                SECURE SHELL
+
+  53               DNS                 DOMAIN NAMING SYSTEM
+
+
